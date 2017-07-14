@@ -1,0 +1,31 @@
+.carousel-cells article{
+  background: url("../../../inc/img/slide-background.jpg");
+  display: flex;
+  align-items: center;
+
+}
+.carousel-cells article .slide-text{
+  background: url("../../../inc/img/slide-background.jpg");
+  margin: auto;
+}
+.carousel-cells article .slide-text h1{
+  font-size: 2rem;
+}
+.page-content .column-content{
+  margin-left: 1rem;
+}
+.page-content .column-content .three-columns{
+  display: flex;
+  justify-content: space-between;
+}
+.page-content .column-content .three-columns .list-block{
+
+}
+.page-content .column-content .three-columns .list-block > h3{
+  margin-top: 0.5rem;
+}
+@media (max-width: 767px) and (min-width: 200px) {
+  .column-content .three-columns{
+      flex-wrap: wrap;
+  }
+}

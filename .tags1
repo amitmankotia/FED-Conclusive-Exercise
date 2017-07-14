@@ -1,0 +1,12 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+.carousel-cells .slide-text	C:\Users\Amit\Desktop\FED Conclusive Exercise updated\FED Conclusive Exercise\inc\css\modules\_page-section.css	/^.carousel-cells .slide-text{$/;"	function	line:1
+.column-content .three-columns	C:\Users\Amit\Desktop\FED Conclusive Exercise updated\FED Conclusive Exercise\inc\css\modules\_page-section.css	/^.column-content .three-columns{$/;"	function	line:5
+.column-content .three-columns .list-block	C:\Users\Amit\Desktop\FED Conclusive Exercise updated\FED Conclusive Exercise\inc\css\modules\_page-section.css	/^.column-content .three-columns .list-block{$/;"	function	line:10
+.column-content .three-columns .list-block > h3	C:\Users\Amit\Desktop\FED Conclusive Exercise updated\FED Conclusive Exercise\inc\css\modules\_page-section.css	/^.column-content .three-columns .list-block > h3{$/;"	function	line:13
+@media (max-width: 600px) and (min-width: 200px)	C:\Users\Amit\Desktop\FED Conclusive Exercise updated\FED Conclusive Exercise\inc\css\modules\_page-section.css	/^@media (max-width: 600px) and (min-width: 200px) {$/;"	function	line:16
+.column-content .three-columns	C:\Users\Amit\Desktop\FED Conclusive Exercise updated\FED Conclusive Exercise\inc\css\modules\_page-section.css	/^  .column-content .three-columns{$/;"	function	line:17
